@@ -1,9 +1,8 @@
-# Readme.md#
----------------
-#Capstone Project#
-------------------
+#	Readme.md
 
-##About the Project##
+#	Capstone Project
+
+##	About the Project
 
 The goal of this project is to take a dataset provided and create an NLP (natural language processing) model that is able to predict subsequent words. Blogs, Twitter and News were datasets used to train the prediction model
 
